@@ -4,3 +4,5 @@ langsmith
 langchain_groq
 dotenv
 langchain_tavily
+langchain-mcp-adapters
+mcp
